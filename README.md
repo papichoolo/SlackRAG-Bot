@@ -5,7 +5,7 @@ The application is a Flask-based web server that integrates a Slack bot with a R
 
 ## Demo Video
 
-A demonstration of this project can be viewed [here](https://drive.google.com/file/d/1Zd23Tnd9KsS1hfZzeUt00uXCZxUrjuGA/view?usp=sharing).
+A demonstration of this project can be viewed [here](https://drive.google.com/file/d/1WY9dvCnuyLmmtLtiX6zhxFJaZE1Jf-RW/view?usp=sharing).
 
 ## Key Components
 
@@ -67,8 +67,7 @@ Replace the placeholders with your actual values. Note the addition of the OPENA
 
 ## 6. Configure the RAG System
 
-1. Ensure you have the `rag_system.py` file in your project directory.
-2. Make sure the `pdflogic.py` file (which likely imports `RAGSystem` from `rag_system.py`) is also present and correctly implemented.
+Make sure the `pdflogic.py` file (which imports `RAGSystem`) is also present and correctly implemented.
 
 ## 7. Start your local server and ngrok
 
