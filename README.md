@@ -1,7 +1,7 @@
 # Slack RAG Bot
 
 ## Overview
-The application is a Flask-based web server that integrates a Slack bot with a RAG (Retrieval-Augmented Generation) system for answering questions about uploaded PDF documents. It uses the Slack Bolt framework for handling Slack events and the custom RAGSystem for processing PDFs and answering questions.
+The application is a Flask-based web server that integrates a Slack bot with a RAG (Retrieval-Augmented Generation) system for answering questions about uploaded PDF documents. It uses the Slack Bolt framework for handling Slack events and the custom RAGSystem for processing PDFs and answering questions
 
 ## Demo Video
 
