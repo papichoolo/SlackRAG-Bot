@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+langchain-core = "*"
+openai = "*"
+langchain-openai = "*"
+langchain-community = "*"
+chromadb = "*"
+langchain-chroma = "*"
+pypdf = "*"
+flask = "*"
+slack-sdk = "*"
+slack-bolt = "*"
+langchainhub = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
