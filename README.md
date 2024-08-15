@@ -5,7 +5,7 @@ The application is a Flask-based web server that integrates a Slack bot with a R
 
 ## Demo Video
 
-A demonstration of this project can be viewed [here](https://drive.google.com/file/d/1WY9dvCnuyLmmtLtiX6zhxFJaZE1Jf-RW/view?usp=sharing).
+A demonstration of this project can be viewed [here](https://drive.google.com/file/d/1S-LT3pWbtdOz9M_6LhSVvTOpmQOJbw8f/view?usp=sharing).
 
 ## Key Components
 
